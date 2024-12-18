@@ -1,0 +1,63 @@
+{
+  "Header.Item1": "About Me",
+  
+  "Header.Item3": "Projects",
+  "Header.Item4": "Contact",
+  
+  
+
+  "Banner.Pretitle": "Hello! My name is",
+  "Banner.Description": "Breogan Dacal",
+  "Banner.ActionBtn": "Say Hi",
+
+  "AboutMe.Title": "About Me",
+  "AboutMe.Paragraphs": [
+    "I am currently a dedicated Software Development student with a strong foundation in creating and developing innovative projects. My passion lies in leveraging modern technologies and best practices to produce high-quality, scalable applications. I continuously seek opportunities to improve my skills and contribute to meaningful projects."
+  ],
+
+ 
+
+  
+
+  "OtherProjects.Title": " Projects",
+  "OtherProjects.Projects": [
+    {
+      "Title": "Chinese Chess",
+      "Description": "Play chinese chess againts ai",
+      "imgs": ["assets/images/hands-game.png"],
+      "demoLink":"https://breogandacal.github.io/proyectos/Chess-master/index.html",
+      "Technologies": ["html","css","js"]
+    },
+    {
+      "Title": "Tic tac toe",
+      "Description": "Play tictactoe against ai",
+      "imgs": ["assets/images/countries-viewer.png"],
+      "demoLink":"https://breogandacal.github.io/proyectos/tictactoe.html",
+      "Technologies": ["html","css","js"]
+
+    },
+    {
+      "Title": "Coin toss",
+      "Description": "Throug the coin and check probabilities.",
+      "demoLink": "https://breogandacal.github.io/proyectos/coin-toss.html",
+       "Technologies": ["html","css","js"]
+    },
+    {
+      "Title": "Jackpot",
+      "Description": "play jackpot game.",
+      "demoLink": "https://breogandacal.github.io/proyectos/slot-machine.html",
+      "Technologies": ["html","css","js"]
+    },
+    {
+      "Title": "Roullete ",
+      "Description": "roulette ai probabolities simulator.",
+      "demoLink": "https://breogandacal.github.io/proyectos/ai%20ruleta/index.html",
+      "Technologies": ["html","css","js"]    }
+    
+  ],
+
+  "Contact.Pretitle": "And... Now?",
+  "Contact.Title": "Say Hi!",
+  "Contact.Content": "I will be glad to hear from you if you want to discuss new opportunities. Write to me, and I will respond as soon as I see your message.",
+  "Contact.Btn": "Contact Me"
+}
