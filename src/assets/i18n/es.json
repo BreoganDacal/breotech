@@ -21,35 +21,35 @@
   "OtherProjects.Title": "Mis proyectos",
   "OtherProjects.Projects": [
     {
-      "Title": "Chinese Chess",
-      "Description": "Play chinese chess againts ai",
+      "Title": "Ajedrez chino",
+      "Description": "Juega al ajedrez chino contra la ia",
       "imgs": ["assets/images/hands-game.png"],
       "demoLink":"https://breogandacal.github.io/proyectos/Chess-master/index.html",
       "Technologies": ["html","css","js"]
     },
     {
       "Title": "Tic tac toe",
-      "Description": "Play tictactoe against ai",
+      "Description": "Juega la tres en raya contra la ia",
       "imgs": ["assets/images/countries-viewer.png"],
       "demoLink":"https://breogandacal.github.io/proyectos/tictactoe.html",
       "Technologies": ["html","css","js"]
 
     },
     {
-      "Title": "Coin toss",
-      "Description": "Throug the coin and check probabilities.",
+      "Title": "Lanza la moneda",
+      "Description": "Lanza la moneda y mira las probabilidades",
       "demoLink": "https://breogandacal.github.io/proyectos/coin-toss.html",
        "Technologies": ["html","css","js"]
     },
     {
-      "Title": "Jackpot",
-      "Description": "play jackpot game.",
+      "Title": "Juega a la tragaperras",
+      "Description": "juega a la tragaperras y ten suerte.",
       "demoLink": "https://breogandacal.github.io/proyectos/slot-machine.html",
       "Technologies": ["html","css","js"]
     },
     {
-      "Title": "Roullete ",
-      "Description": "roulette ai probabolities simulator.",
+      "Title": "Ruleta  ",
+      "Description": "ia que calculas las probabilidades de la ruleta.",
       "demoLink": "https://breogandacal.github.io/proyectos/ai%20ruleta/index.html",
       "Technologies": ["html","css","js"]    }
     
