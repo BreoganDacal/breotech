@@ -21,49 +21,38 @@
   "OtherProjects.Title": "Mis proyectos",
   "OtherProjects.Projects": [
     {
-      "Title": "Ajedrez chino",
-      "Description": "Juego de piedra papel y tijeras extendido. Un proyecto personal desarrollado en angular en el que juegas al azar contra la máquina. Cuenta con la utilización de servicios, interfaces y componentes.",
+      "Title": "Chinese Chess",
+      "Description": "Play chinese chess againts ai",
       "imgs": ["assets/images/hands-game.png"],
-      "ghLink": "https://github.com/andresjosehr/hands-game",
-      "demoLink": "https://proyectos.andresjosehr.com/hands-game",
-      "Technologies": ["Angular", "CSS GRID", "SASS", "Angular animations"]
+      "demoLink":"https://breogandacal.github.io/proyectos/Chess-master/index.html",
+      "Technologies": ["html","css","js"]
     },
     {
-      "Title": "Countries viewer",
-      "Description": "Interfaz que consume una API de países con el que se pueden visualizar lista de países, ver detalles de cada país, filtrar por nombre y región. Ademas cuenta con un dark mode para alternar entre el tema oscuro y el claro.",
+      "Title": "Tic tac toe",
+      "Description": "Play tictactoe against ai",
       "imgs": ["assets/images/countries-viewer.png"],
-      "ghLink": "https://github.com/andresjosehr/countries-viewer",
-      "demoLink": "https://proyectos.andresjosehr.com/countries-viewer",
-      "Technologies": ["Angular", "RxJS", "SASS", "API"]
+      "demoLink":"https://breogandacal.github.io/proyectos/tictactoe.html",
+      "Technologies": ["html","css","js"]
+
     },
     {
-      "Title": "Four card feature section",
-      "Description": "Una sola página que cuenta con un diseño minimalista que enumera 4 características en 4 cards. Se usan animaciones de entrada con angular animations.",
-      "ghLink": "https://github.com/andresjosehr/fourd-card-feature-section",
-      "demoLink": "https://proyectos.andresjosehr.com/four-card-feature-section",
-      "Technologies": ["Angular", "SASS", "CSS GRID"]
+      "Title": "Coin toss",
+      "Description": "Throug the coin and check probabilities.",
+      "demoLink": "https://breogandacal.github.io/proyectos/coin-toss.html",
+       "Technologies": ["html","css","js"]
     },
     {
-      "Title": "Social proof section",
-      "Description": "Proyecto personal de una página diseñada a partir de un diseño hecho en figma. Se utilizó angular para el desarrollo junto con SASS y CSS GRID.",
-      "ghLink": "https://github.com/andresjosehr/social-proof-section",
-      "demoLink": "https://proyectos.andresjosehr.com/social-proof-section",
-      "Technologies": ["Angular", "CSS GRID", "GIT"]
+      "Title": "Jackpot",
+      "Description": "play jackpot game.",
+      "demoLink": "https://breogandacal.github.io/proyectos/slot-machine.html",
+      "Technologies": ["html","css","js"]
     },
     {
-      "Title": "FAQ accordion card",
-      "Description": "Acordeón de preguntas frecuentes con lógica y animnaciones realizadas en Angular.",
-      "ghLink": "https://github.com/andresjosehr/faq-accordion",
-      "demoLink": "https://proyectos.andresjosehr.com/faq-accordion",
-      "Technologies": ["Angular", "CSS GRID", "Angular animations"]
-    },
-    {
-      "Title": "Profile card",
-      "Description": "Simple diseño de una página que cuenta con una carta de perfil con información básica de una persona.",
-      "ghLink": "https://github.com/andresjosehr/profile-card-component",
-      "demoLink": "https://proyectos.andresjosehr.com/profile-card-component",
-      "Technologies": ["Angular", "SASS", "GIT"]
-    }
+      "Title": "Roullete ",
+      "Description": "roulette ai probabolities simulator.",
+      "demoLink": "https://breogandacal.github.io/proyectos/ai%20ruleta/index.html",
+      "Technologies": ["html","css","js"]    }
+    
   ],
 
   "Contact.Pretitle": "Y... ¿Ahora?",
