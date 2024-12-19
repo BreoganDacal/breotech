@@ -21,7 +21,7 @@
   "OtherProjects.Title": "Mis proyectos",
   "OtherProjects.Projects": [
     {
-      "Title": "Hands game",
+      "Title": "Ajedrez chino",
       "Description": "Juego de piedra papel y tijeras extendido. Un proyecto personal desarrollado en angular en el que juegas al azar contra la máquina. Cuenta con la utilización de servicios, interfaces y componentes.",
       "imgs": ["assets/images/hands-game.png"],
       "ghLink": "https://github.com/andresjosehr/hands-game",
